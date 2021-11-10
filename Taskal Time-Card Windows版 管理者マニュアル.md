@@ -15,7 +15,10 @@ Taskal Time-Card Windows版 管理者マニュアル
 
 ## はじめに
 
-本書は、Taskal Time-Cardにおける管理者の手順について記述したものです。特に記載がない場合、基本的な操作は全て管理者権限を保有したユーザーでの操作となります。本書の内容は、最終更新日の内容で確認しています。本書に記載されている画面等はクラウドサービスの仕様上、予告なしに変更される場合があります。
+本書は、Taskal Time-Cardにおける管理者の手順について記述したものです。  
+特に記載がない場合、基本的な操作は全て管理者権限を保有したユーザーでの操作となります。  
+本書の内容は、最終更新日の内容で確認しています。  
+本書に記載されている画面等はクラウドサービスの仕様上、予告なしに変更される場合があります。
 
 ## 前提
 
@@ -24,71 +27,71 @@ Taskal Time-Card Windows版 管理者マニュアル
 ※社員マスタ登録をあらかじめ行っておくことで、利用者の社員情報登録を省略することができます。
 
 ## 招待メールを送るメールアドレスを入力する
-***
-①管理画面トップまたは、左ペインの [招待メール] をクリックします。
 
-![1](https://user-images.githubusercontent.com/91858341/136308534-b40850e4-ad42-498b-921e-35ea558cba97.png)
+①管理画面トップまたは、左ペインの【招待メール】をクリックします。
+
+![1](https://user-images.githubusercontent.com/91858341/141061065-8057ceeb-2ea6-4209-b90f-1e807be4b322.png)
 
 <div style="page-break-before:always"></div>
 
 ②招待メール画面が表示されます。
 
-![1](https://user-images.githubusercontent.com/91858341/136309085-f59b4206-67dd-432b-bf85-61462bd299ef.png)
+![1](https://user-images.githubusercontent.com/91858341/141061690-f59fa81d-8483-48c9-bfba-d98e9f96e77f.png)
 
 招待メールの送信方法は**2パターン**あります。
 
 - メールアドレスをCSVでアップロードする場合→[メールアドレスをCSVでアップロードする](#メールアドレスをcsvでアップロードする)へ
 - メールアドレスを直接入力する場合→[メールアドレスを直接入力する](#メールアドレスを直接入力する)へ
 
+<div style="page-break-before:always"></div>
+
 ### メールアドレスをCSVでアップロードする
 
-①画面のいずれかの入力サンプル形式でアップロードできます。
-サンプルをダウンロードしたい場合は「入力サンプル.csv(入力サンプル2.csv)をダウンロード」をクリックします。
+①画面のいずれかの入力サンプル形式でアップロードできます。  
+サンプルをダウンロードしたい場合は【入力サンプル.csv(入力サンプル2.csv)をダウンロード】をクリックします。
 
-![1](https://user-images.githubusercontent.com/91858341/136318560-21d7d77c-9b0a-4446-943e-0c3e2ef5e014.png)
-
-<div style="page-break-before:always"></div>
+![1](https://user-images.githubusercontent.com/91858341/141062317-7f078354-2921-42c8-892f-8298332984ad.png)
 
 ②編集したcsvファイルを送信フォームでファイル選択またはドロップします。
 
-![1](https://user-images.githubusercontent.com/91858341/136320237-ea158811-f638-4592-9305-e2e0cb37e08c.png)
+![1](https://user-images.githubusercontent.com/91858341/141063256-3a90758b-0d10-4e57-961f-a03004a69521.png)
+
+<div style="page-break-before:always"></div>
 
 ③入力部にメールアドレスが展開されます。
 
-![1](https://user-images.githubusercontent.com/91858341/136320906-85d896aa-dc7b-494d-bef0-12aed265c62a.png)
-
-<div style="page-break-before:always"></div>
+![1](https://user-images.githubusercontent.com/91858341/141064273-982d97c4-4bda-4dfc-b776-523a4a4f3553.png)
 
 ### メールアドレスを直接入力する
 
-①送信フォームの入力部にメールアドレスを入力します。
+送信フォームの入力部にメールアドレスを入力します。
 
-![1](https://user-images.githubusercontent.com/91858341/136322184-4399dd6c-4fc2-4f17-bbdd-eb2d96286256.png)
+![1](https://user-images.githubusercontent.com/91858341/141065540-3d4235c1-3628-4086-9869-6ee878afa56a.png)
+
+<div style="page-break-before:always"></div>
 
 ※複数入力したい場合は、下記表示形式のいずれかのように入力してください。
 
-![1](https://user-images.githubusercontent.com/91858341/136322475-010caf53-0a79-4323-aea5-4b028898082c.png)
-
-<div style="page-break-before:always"></div>
+![1](https://user-images.githubusercontent.com/91858341/141065892-46a441b7-8517-47c7-9d88-8a51ce55f4c7.png)
 
 メールアドレスの形式がおかしい場合はエラーが表示されます。
 
-![1](https://user-images.githubusercontent.com/91858341/136323485-f761ae7d-9069-4c27-802a-be02e1f50119.png)
-
-## メールを送信する
-***
-①入力内容およびメールに添付するメッセージを確認し、「メール送信」ボタンをクリックしてください。
-
-![1](https://user-images.githubusercontent.com/91858341/136325847-a28ad543-f0ce-481d-a06c-b0f2dcb71769.png)
+![1](https://user-images.githubusercontent.com/91858341/141066476-22b620a8-5c3e-48ae-b99a-b2bebfa61d28.png)
 
 <div style="page-break-before:always"></div>
 
+## メールを送信する
+
+①入力内容およびメールに添付するメッセージを確認し、【メール送信】ボタンをクリックしてください。
+
+![1](https://user-images.githubusercontent.com/91858341/141067319-73302760-f72f-4850-9e67-942301ae5188.png)
+
 ②正常に送信された場合、画面右上に通知および送信フォームに送信完了メッセージが表示されます。
 
-![1](https://user-images.githubusercontent.com/91858341/136326738-7ea8f2e5-f76c-4437-93d4-67da44f44191.png)
+![1](https://user-images.githubusercontent.com/91858341/141067909-7da8bab8-0e79-4424-90bc-35b729e137c4.png)
 
 <div style="page-break-before:always"></div>
 
 ※招待メールは以下のようなイメージになります。
 
-![1](https://user-images.githubusercontent.com/91858341/136327526-af13fd67-bb4d-42ca-b0af-0152ede6903b.png)
+![1](https://user-images.githubusercontent.com/91858341/141068519-e88ab4c7-488f-4af3-9551-033848897053.png)
